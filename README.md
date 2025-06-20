@@ -13,4 +13,5 @@ https://github.com/terryKua/terrykuaCC4/assets/164734122/841dc865-8022-4df5-a29d
 https://github.com/terryKua/terrykuaCC4/assets/164734122/68c412ae-c4c0-41fd-b8e9-a699cbbe8419
 ###### 5. Access restaurant.csv and restaurant_events.csv in your IDE project folder. If you are using Visual Studio, then you will be able to view these CSV files in your Visual Studio project folder. For example, the CC4_Career_Coach folder is my visual studio project folder. Thus, you can access my 2 CSV files in my folder via Git Hub. 
 https://github.com/terryKua/terrykuaCC4/assets/164734122/d1eaee8e-d8df-4491-a8d0-ff4486bb4bf1
+###### Alternatively, you can directly access my 2 csv files from the CC4 Career Coach folder. 
 
