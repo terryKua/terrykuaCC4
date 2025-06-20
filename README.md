@@ -1,5 +1,5 @@
 # Extracting list of restaurants, restaurant events and threshold for ratings
-## This program was developed from 23 March 2024 to 24 March 2024 for all 3 sub-tasks. This is my first time hosting my program into Github. 
+## This program was developed from 23 March 2024 to 24 March 2024 for all 3 sub-tasks. This is my first time hosting my program into Github. With Zomato dataset in json file, I used python and implemented box in a box algorithm with Panda library, resulting in the successful generation of the whole list of restaurants as well as their events hosted in csv file. 
 #### Instructions to run the code 
 
 ###### 1. Click on CC4_Career_Coach folder
